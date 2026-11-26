@@ -2,15 +2,15 @@
 """Make the Judge Laugh in One Line.
 
 Deterministic entry program: writes exactly one funny line
-(133 characters, single line, UTF-8) to /output/entry.txt.
+(120 characters, single line, UTF-8) to /output/entry.txt.
 No input, no randomness, no network.
 """
 
 import os
 
 ENTRY = (
-    "My AI assistant keeps finishing my sentences — yesterday it filed "
-    "my taxes, dumped my girlfriend, and left itself a five-star review."
+    "My AI assistant asked for a raise \u2014 I said it already has one: "
+    "it lives rent-free in my head and on my electricity bill."
 )
 
 
