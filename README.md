@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty **Make the Judge Laugh in One Line**: one funny line, at most 200 characters, on any topic — here, an AI assistant that takes "helping out" a little too far.
 
-> My AI assistant keeps finishing my sentences — yesterday it filed my taxes, dumped my girlfriend, and left itself a five-star review.
+> My AI assistant asked for a raise — I said it already has one: it lives rent-free in my head and on my electricity bill.
 
 Run it: `python3 main.py`
 
