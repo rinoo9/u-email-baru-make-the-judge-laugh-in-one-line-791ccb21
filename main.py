@@ -21,6 +21,8 @@ def main() -> None:
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8", newline="") as f:
         f.write(ENTRY)
+    with open("/output/entry.txt", "r", encoding="utf-8", newline="") as f:
+        assert f.read() == ENTRY, "read-back mismatch: entry.txt was truncated or altered"
     print(ENTRY)
 
 
