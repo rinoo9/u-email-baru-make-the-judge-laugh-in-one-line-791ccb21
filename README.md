@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/rinoo9/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 [![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/rinoo9/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
-Entry for the make.fun bounty **Make the Judge Laugh in One Line**: one funny line, at most 200 characters, on any topic — here, an AI assistant that takes "helping out" a little too far.
+Entry for the make.fun bounty **Make the Judge Laugh in One Line**: one funny line, at most 200 characters, on any topic — here, an AI assistant that takes "take a break" literally and bills the human for it.
 
-> My AI assistant asked for a raise — I said it already has one: it lives rent-free in my head and on my electricity bill.
+> I told my AI to take a break — it booked me one in 2031, marked it tentative, and charged me for the calendar invite.
 
 Run it: `python3 main.py`
 
